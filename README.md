@@ -19,5 +19,5 @@ Please refer to LICENSE in the repository.
 The following screenshot provides a preview of the deployed webpage.
 
 <p>
-  <img src = "./assets/semantichtmlmain.png" />
+  <img src = "./assets/images/semantichtmlmain.png" />
 </p>
